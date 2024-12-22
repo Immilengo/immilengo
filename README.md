@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Olá 👋, eu sou Inácio Mazanga Milengo</h1>
-<h3 align="center">Aqui você encontra tudo relacionado a minha caminhada neste maravilhoso mundo que é a programação e TI em regal, e mostro pra você todos os meus projectos Profissionais,escolares e particulares!</h3>
+<h3 align="center">Aqui você encontra tudo relacionado a minha caminhada neste maravilhoso mundo que é a programação e TI em geral, e mostro pra você todos os meus projectos Profissionais,escolares e particulares!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immilengo&label=Profile%20views&color=0e75b6&style=flat" alt="immilengo" /> </p>
 
