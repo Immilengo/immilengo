@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Meu Bunner](https://github.com/Immilengo/Comercio/blob/main/imagens/bunner.png?raw=true)
+![Meu Bunner](https://github.com/Immilengo/Hotel-GadGil/blob/main/WhatsApp%20Image%202025-03-28%20at%2012.12.55.jpeg?raw=true)
 <!--
 **Immilengo/immilengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
